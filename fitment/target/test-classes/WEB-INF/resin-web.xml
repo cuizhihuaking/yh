@@ -1,0 +1,13 @@
+<web-app id="fitment-0.0.1-SNAPSHOT">
+    <jsp fast-jstl="false"/>
+
+    <!--database>
+        <jndi-name>jdbc/appfuse</jndi-name>
+        <driver type="com.mysql.jdbc.Driver">
+            <url>jdbc:mysql://16.165.110.19/fitment?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf-8</url>
+            <user>budget</user>
+            <password>budget</password>
+        </driver>
+    </database-->
+</web-app>
+
